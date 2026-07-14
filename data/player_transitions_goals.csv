@@ -1,0 +1,101 @@
+source,target,player_list,player_count,goals,value
+Boston 2024,Boston 2024-2025,"['Amanda Pelkey', 'Jessica DiGirolamo', 'Emily Brown', 'Jamie Lee Rattray', 'Hannah Brandt', 'Sophie Shirley', 'Emma Söderberg', 'Kelly Babstock', 'Sidney Morin', 'Megan Keller', 'Theresa Schafzahl', 'Alina Müller', 'Aerin Frankel', 'Loren Gabel', 'Hilary Knight']",15,36,36
+Minnesota 2024,Boston 2024-2025,"['Susanna Tapani', 'Emma Greco']",2,2,2
+Ottawa 2024,Ottawa 2024-2025,"['Samantha Isbell', 'Shiann Darkangelo', 'Tereza Vanišová', 'Emerance Maschmeyer', 'Brianne Jenner', 'Jincy Roese', 'Aneta Tejralová', 'Zoe Boyd', 'Natalie Snodgrass', 'Kateřina Mrázová', 'Emily Clark', 'Gabbie Hughes', 'Ashton Bell']",13,33,33
+Minnesota 2024,Minnesota 2024-2025,"['Sophie Jaques', 'Taylor Heise', 'Grace Zumwinkle', 'Mellissa Channell-Watkins', 'Maggie Flaherty', 'Lee Stecklein', 'Claire Butorac', 'Michela Cava', 'Liz Schepers', 'Maddie Rooney', 'Kendall Coyne Schofield', 'Denisa Křížová', 'Kelly Pannek', 'Brooke Bryant', 'Nicole Hensley', 'Natalie Buchbinder']",16,42,42
+Ottawa 2024,Boston 2024-2025,['Lexie Adzija'],1,1,1
+Boston 2024,New York 2024-2025,['Taylor Girard'],1,4,4
+Minnesota 2024,Montréal 2024-2025,"['Abby Boreen', 'Clair DeGeorge']",2,4,4
+Montréal 2024,Boston 2024-2025,['Jillian Dempsey'],1,1,1
+Montréal 2024,Montréal 2024-2025,"['Kennedy Marchment', 'Laura Stacey', 'Maureen Murphy', 'Catherine Dubois', 'Mariah Keopple', 'Ann-Renée Desbiens', 'Gabrielle David', 'Claire Dalton', 'Marie-Philip Poulin', 'Kati Tabin', 'Catherine Daoust', 'Erin Ambrose', 'Elaine Chuli', 'Dominika Lásková', ""Kristin O'Neill""]",15,45,45
+Montréal 2024,Minnesota 2024-2025,['Marlène Boissonnault'],1,0,0
+Ottawa 2024,Montréal 2024-2025,"['Amanda Boulier', 'Mikyla Grant-Mentis', 'Sandra Abstreiter']",3,2,2
+New York 2024,New York 2024-2025,"['Chloé Aurard-Bushee', 'Jessie Eldridge', 'Abby Roque', 'Micah Zandee-Hart', 'Alex Carpenter', 'Jaime Bourbonnais', 'Élizabeth Giguère', 'Abbey Levy', 'Brooke Hobson', 'Jade Downie-Landry', 'Taylor Baker', 'Jill Saulnier', 'Ella Shelton', 'Corinne Schroeder', 'Kayla Vespa', 'Paetyn Levis']",16,49,49
+New York 2024,Boston 2024-2025,['Olivia Zafuto'],1,0,0
+New York 2024,Minnesota 2024-2025,['Claire Thompson'],1,0,0
+New York 2024,Toronto 2024-2025,['Emma Woods'],1,2,2
+New York 2024,Montréal 2024-2025,['Alexandra Labelle'],1,1,1
+Ottawa 2024,Toronto 2024-2025,"['Hayley Scamurra', 'Daryl Watts', 'Savannah Harmon']",3,18,18
+Toronto 2024,Toronto 2024-2025,"['Emma Maltais', 'Kaitlin Willoughby', 'Jesse Compher', 'Hannah Miller', 'Carly Jackson', 'Blayre Turnbull', 'Victoria Bach', 'Kali Flanagan', 'Natalie Spooner', 'Olivia Knowles', 'Samantha Cogan', 'Maggie Connors', 'Kristen Campbell', 'Jessica Kondas', 'Allie Munroe', 'Renata Fast', 'Sarah Nurse', 'Jocelyne Larocque']",18,61,61
+Toronto 2024,Ottawa 2024-2025,"['Rebecca Leslie', 'Alexa Vasko']",2,4,4
+Boston 2024-2025,Montréal 2025-2026,['Jessica DiGirolamo'],1,1,1
+Boston 2024-2025,Boston 2025-2026,"['Susanna Tapani', 'Daniela Pejšová', 'Olivia Zafuto', 'Jamie Lee Rattray', 'Hannah Brandt', 'Sophie Shirley', 'Megan Keller', 'Shay Maloney', 'Aerin Frankel', 'Alina Müller', 'Hadley Hartmetz', 'Loren Gabel']",12,35,35
+Boston 2024-2025,Seattle 2025-2026,"['Emily Brown', 'Theresa Schafzahl', 'Hannah Bilka', 'Lexie Adzija', 'Hilary Knight']",5,26,26
+Boston 2024-2025,Minnesota 2025-2026,['Sidney Morin'],1,3,3
+Boston 2024-2025,Ottawa 2025-2026,['Emma Greco'],1,0,0
+New York 2024-2025,New York 2025-2026,"['Taylor Girard', 'Emmy Fecteau', 'Micah Zandee-Hart', 'Jaime Bourbonnais', 'Elle Hartje', 'Kayle Osborne', 'Allyson Simpson', 'Sarah Fillier', 'Kayla Vespa', 'Paetyn Levis', 'Maja Nylén Persson']",11,25,25
+New York 2024-2025,Boston 2025-2026,"['Jill Saulnier', 'Jessie Eldridge', 'Abbey Levy']",3,11,11
+Boston 2024-2025,Vancouver 2025-2026,['Sydney Bard'],1,1,1
+Minnesota 2024-2025,Minnesota 2025-2026,"['Taylor Heise', 'Klára Hymlárová', 'Grace Zumwinkle', 'Marlène Boissonnault', 'Mae Batherson', 'Claire Butorac', 'Lee Stecklein', 'Dominique Petrie', 'Britta Curl-Salemme', 'Maddie Rooney', 'Katy Knoll', 'Kendall Coyne Schofield', ""Kaitlyn O'Donohoe"", 'Kelly Pannek', 'Nicole Hensley', 'Natalie Buchbinder']",16,46,46
+Minnesota 2024-2025,Vancouver 2025-2026,"['Mellissa Channell-Watkins', 'Sophie Jaques', 'Claire Thompson']",3,12,12
+Minnesota 2024-2025,Montréal 2025-2026,['Maggie Flaherty'],1,1,1
+Minnesota 2024-2025,Ottawa 2025-2026,"['Brooke McQuigge', 'Michela Cava']",2,17,17
+Minnesota 2024-2025,Boston 2025-2026,['Liz Schepers'],1,2,2
+Minnesota 2024-2025,New York 2025-2026,['Denisa Křížová'],1,4,4
+Minnesota 2024-2025,Seattle 2025-2026,['Brooke Bryant'],1,1,1
+Montréal 2024-2025,Montréal 2025-2026,"['Laura Stacey', 'Maureen Murphy', 'Catherine Dubois', 'Lina Ljungblom', 'Ann-Renée Desbiens', 'Amanda Boulier', 'Kelly Ann Nadeau', 'Marie-Philip Poulin', 'Sandra Abstreiter', 'Dara Greig', 'Kati Tabin', 'Alexandra Labelle', 'Erin Ambrose']",13,48,48
+Toronto 2024-2025,Toronto 2025-2026,"['Anna Kjellbin', 'Savannah Harmon', 'Emma Maltais', 'Jesse Compher', 'Raygan Kirk', 'Anneke Rankila', 'Blayre Turnbull', 'Kali Flanagan', 'Daryl Watts', 'Natalie Spooner', 'Emma Woods', 'Maggie Connors', 'Jessica Kondas', 'Allie Munroe', 'Renata Fast']",15,49,49
+Montréal 2024-2025,Vancouver 2025-2026,"['Jenn Gardiner', 'Abby Boreen']",2,11,11
+Montréal 2024-2025,Seattle 2025-2026,"['Anna Wilgren', 'Cayla Barnes', 'Mariah Keopple', 'Gabrielle David', 'Mikyla Grant-Mentis']",5,11,11
+Toronto 2024-2025,Montréal 2025-2026,"['Kaitlin Willoughby', 'Hayley Scamurra']",2,1,1
+Montréal 2024-2025,Toronto 2025-2026,"['Claire Dalton', 'Elaine Chuli']",2,3,3
+Montréal 2024-2025,New York 2025-2026,"['Clair DeGeorge', ""Kristin O'Neill""]",2,1,1
+New York 2024-2025,Montréal 2025-2026,"['Abby Roque', 'Jade Downie-Landry']",2,10,10
+New York 2024-2025,Vancouver 2025-2026,['Gabby Rosenthal'],1,1,1
+New York 2024-2025,Ottawa 2025-2026,"['Alexie Guay', 'Brooke Hobson']",2,1,1
+Toronto 2024-2025,New York 2025-2026,"['Lauren Bernard', 'Olivia Knowles']",2,0,0
+New York 2024-2025,Seattle 2025-2026,"['Alex Carpenter', 'Corinne Schroeder']",2,11,11
+New York 2024-2025,Minnesota 2025-2026,['Élizabeth Giguère'],1,2,2
+New York 2024-2025,Toronto 2025-2026,['Ella Shelton'],1,8,8
+Ottawa 2024-2025,Vancouver 2025-2026,"['Emerance Maschmeyer', 'Tereza Vanišová', 'Mannon McMahon', 'Anna Meixner', 'Ashton Bell']",5,23,23
+Ottawa 2024-2025,Ottawa 2025-2026,"['Brianne Jenner', 'Gwyneth Philips', 'Rebecca Leslie', 'Taylor House', 'Kateřina Mrázová', 'Alexa Vasko', 'Emily Clark', 'Gabbie Hughes', 'Ronja Savolainen', 'Stephanie Markowski']",10,31,31
+Ottawa 2024-2025,Minnesota 2025-2026,['Jincy Roese'],1,3,3
+Ottawa 2024-2025,Seattle 2025-2026,"['Aneta Tejralová', 'Natalie Snodgrass', 'Danielle Serdachny']",3,4,4
+Ottawa 2024-2025,Montréal 2025-2026,"['Samantha Isbell', 'Shiann Darkangelo']",2,8,8
+Ottawa 2024-2025,Boston 2025-2026,['Zoe Boyd'],1,0,0
+Toronto 2024-2025,Ottawa 2025-2026,['Jocelyne Larocque'],1,0,0
+Toronto 2024-2025,Boston 2025-2026,"['Laura Kluge', 'Noemi Neubauerová', 'Rylind MacKinnon']",3,0,0
+Toronto 2024-2025,Vancouver 2025-2026,"['Hannah Miller', 'Izzy Daniel', 'Kristen Campbell', 'Sarah Nurse']",4,18,18
+Toronto 2024-2025,Seattle 2025-2026,"['Carly Jackson', 'Megan Carter', 'Julia Gosling']",3,4,4
+Toronto 2024-2025,Minnesota 2025-2026,['Samantha Cogan'],1,0,0
+Boston 2025-2026,Boston 2026-2027,"['Laura Kluge', 'Susanna Tapani', 'Sophie Shirley', 'Megan Keller', 'Rylind MacKinnon', 'Shay Maloney', 'Liz Schepers', 'Aerin Frankel', 'Amanda Thiele', 'Ella Huber', 'Jill Saulnier', 'Haley Winn', 'Olivia Mobley', 'Loren Gabel']",14,43,43
+Boston 2025-2026,Montréal 2026-2027,['Jessie Eldridge'],1,7,7
+Boston 2025-2026,San Jose 2026-2027,"['Daniela Pejšová', 'Abbey Levy', 'Hadley Hartmetz']",3,2,2
+Boston 2025-2026,Toronto 2026-2027,['Jamie Lee Rattray'],1,4,4
+Boston 2025-2026,Hamilton 2026-2027,"['Zoe Boyd', 'Alina Müller', 'Riley Brengman']",3,6,6
+Boston 2025-2026,Seattle 2026-2027,['Noemi Neubauerová'],1,0,0
+Boston 2025-2026,Detroit 2026-2027,['Mia Biotti'],1,0,0
+Minnesota 2025-2026,Minnesota 2026-2027,"['Taylor Heise', 'Klára Hymlárová', 'Grace Zumwinkle', 'Marlène Boissonnault', 'Lee Stecklein', 'Claire Butorac', 'Peyton Anderson', 'Dominique Petrie', 'Sidney Morin', 'Élizabeth Giguère', 'Maddie Rooney', 'Samantha Cogan', 'Brooke Becker', 'Kelly Pannek', 'Natalie Buchbinder']",15,50,50
+Minnesota 2025-2026,Las Vegas 2026-2027,"['Mae Batherson', 'Katy Knoll', 'Kendall Cooper', 'Nicole Hensley', 'Madison Bizal']",5,12,12
+Minnesota 2025-2026,Detroit 2026-2027,['Britta Curl-Salemme'],1,11,11
+Minnesota 2025-2026,Hamilton 2026-2027,['Abby Hustler'],1,4,4
+Montréal 2025-2026,Las Vegas 2026-2027,"['Hayley Scamurra', 'Maureen Murphy', 'Erin Ambrose']",3,12,12
+Montréal 2025-2026,Montréal 2026-2027,"['Jessica DiGirolamo', 'Laura Stacey', 'Abby Roque', 'Kaitlin Willoughby', 'Maggie Flaherty', 'Nadia Mattivi', 'Catherine Dubois', 'Lina Ljungblom', 'Ann-Renée Desbiens', 'Tamara Giaquinto', 'Marie-Philip Poulin', 'Kati Tabin', 'Jade Downie-Landry', 'Alexandra Labelle', 'Megan Warrener']",15,44,44
+Montréal 2025-2026,Detroit 2026-2027,['Shiann Darkangelo'],1,4,4
+Montréal 2025-2026,Boston 2026-2027,['Amanda Boulier'],1,0,0
+Montréal 2025-2026,Ottawa 2026-2027,['Dara Greig'],1,3,3
+Montréal 2025-2026,Hamilton 2026-2027,['Nicole Gosling'],1,3,3
+Montréal 2025-2026,San Jose 2026-2027,['Natálie Mlýnková'],1,5,5
+New York 2025-2026,New York 2026-2027,"['Emmy Fecteau', 'Micah Zandee-Hart', 'Lauren Bernard', 'Nicole Vallario', 'Jaime Bourbonnais', 'Elle Hartje', 'Callie Shanahan', 'Sarah Fillier', 'Anna Bargman', 'Kaley Doyle', 'Clair DeGeorge', 'Denisa Křížová', 'Dayle Ross', 'Paetyn Levis', 'Kristýna Kaltounková', 'Maja Nylén Persson']",16,35,35
+New York 2025-2026,San Jose 2026-2027,"['Anne Cherkowski', 'Maddi Wheeler', ""Kristin O'Neill""]",3,9,9
+New York 2025-2026,Hamilton 2026-2027,"['Kayle Osborne', 'Allyson Simpson', 'Kayla Vespa']",3,3,3
+New York 2025-2026,Detroit 2026-2027,['Taylor Girard'],1,7,7
+Ottawa 2025-2026,Ottawa 2026-2027,"['Vita Poniatovskaia', 'Fanuza Kadirova', 'Gwyneth Philips', 'Sanni Ahola', 'Kendra Woodland', 'Brooke McQuigge', 'Michela Cava', 'Kathryn Reilly', 'Rebecca Leslie', 'Brooke Hobson', 'Emma Greco', 'Kateřina Mrázová', 'Gabbie Hughes', 'Ronja Savolainen', 'Jocelyne Larocque']",15,37,37
+Ottawa 2025-2026,Hamilton 2026-2027,"['Brianne Jenner', 'Peyton Hemp', 'Alexa Vasko', 'Emily Clark']",4,19,19
+Ottawa 2025-2026,San Jose 2026-2027,['Rory Guilday'],1,1,1
+Ottawa 2025-2026,Detroit 2026-2027,"['Olivia Wallin', 'Stephanie Markowski']",2,1,1
+Ottawa 2025-2026,Boston 2026-2027,['Taylor House'],1,0,0
+Seattle 2025-2026,Seattle 2026-2027,"['Emily Brown', 'Anna Wilgren', 'Aneta Tejralová', 'Alex Carpenter', 'Lyndie Lobdell', 'Theresa Schafzahl', 'Carly Jackson', 'Lexie Adzija', 'Gabrielle David', 'Lily Delianedis', 'Danielle Serdachny', 'Julia Gosling', 'Hannah Murphy', 'Mikyla Grant-Mentis']",14,40,40
+Seattle 2025-2026,Detroit 2026-2027,"['Cayla Barnes', 'Hannah Bilka', 'Hilary Knight']",3,12,12
+Seattle 2025-2026,Las Vegas 2026-2027,"['Sydney Langseth', 'Natalie Snodgrass', 'Megan Carter', 'Jada Habisch']",4,4,4
+Seattle 2025-2026,San Jose 2026-2027,"['Mariah Keopple', 'Corinne Schroeder', 'Brooke Bryant']",3,0,0
+Seattle 2025-2026,Ottawa 2026-2027,['Jenna Buglioni'],1,0,0
+Toronto 2025-2026,Montréal 2026-2027,['Emma Maltais'],1,3,3
+Toronto 2025-2026,Hamilton 2026-2027,['Anna Kjellbin'],1,1,1
+Toronto 2025-2026,Detroit 2026-2027,"['Jesse Compher', 'Daryl Watts']",2,16,16
+Toronto 2025-2026,Toronto 2026-2027,"['Raygan Kirk', 'Emma Gentry', 'Lauren Messier', 'Claire Dalton', 'Natalie Spooner', 'Kali Flanagan', 'Emma Woods', 'Ella Shelton', 'Jessica Kondas', 'Allie Munroe', 'Renata Fast', 'Jessie McPherson']",12,13,13
+Toronto 2025-2026,San Jose 2026-2027,"['Kristin Della Rovere', 'Maggie Connors']",2,3,3
+Toronto 2025-2026,New York 2026-2027,['Elaine Chuli'],1,0,0
+Vancouver 2025-2026,Vancouver 2026-2027,"['Emerance Maschmeyer', 'Tereza Vanišová', 'Gabby Rosenthal', 'Jenn Gardiner', 'Abby Boreen', 'Hannah Miller', 'Mannon McMahon', 'Sophie Jaques', 'Katie Chan', 'Izzy Daniel', 'Anna Segedi', 'Kristen Campbell', 'Ashton Bell', 'Sarah Nurse']",14,57,57
+Vancouver 2025-2026,Las Vegas 2026-2027,['Darcie Lappan'],1,0,0
+Vancouver 2025-2026,Detroit 2026-2027,"['Mellissa Channell-Watkins', 'Nina Jobst-Smith', 'Sydney Bard']",3,0,0
